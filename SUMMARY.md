@@ -24,5 +24,5 @@
         * 丰田5s工作法
         * 迭代
     * 实践
-    * [Python实践](python实践.md)
+        * [Python](python.md)
 
