@@ -37,6 +37,6 @@
         * 人工智能
         * 基因编辑
         * [Python实践](python.md)
-        * Github
+        * [Github](github.md)
 * [结束语](结束语.md)
 
