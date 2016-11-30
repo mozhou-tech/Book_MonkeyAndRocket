@@ -35,7 +35,7 @@
         * [金融](金融市场.md)
         * [互联网](互联网.md)
         * 大数据
-        * 人工智能
+        * 机器人
         * 基因编辑
         * [Python实践](python.md)
         * [Github](github.md)
