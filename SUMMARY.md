@@ -39,5 +39,6 @@
         * 基因编辑
         * [Python实践](python.md)
         * [Github](github.md)
+        * 智能硬件
 * [结束语](结束语.md)
 
